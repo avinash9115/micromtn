@@ -1,4 +1,4 @@
-Logr
+Logr- project readme reducing complexity
 ====
  - - -
 
